@@ -100,9 +100,14 @@ Each model is trained, tested, and evaluated using metrics like:
 
 ---
 
-## ✅ Conclusion
+## ✅ Result
 
 The Neural Network model achieved an accuracy of approximately 89.67% on the test dataset.
+
+---
+
+
+## ✅ Conclusion
 
 This project demonstrates a full machine learning pipeline for **customer churn prediction**:
 - From raw data cleaning to model deployment
